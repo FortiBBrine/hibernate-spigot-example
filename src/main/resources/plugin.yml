@@ -1,0 +1,3 @@
+name: HibernateExample
+main: me.fortibrine.example.HibernateExamplePlugin
+version: 1.0
